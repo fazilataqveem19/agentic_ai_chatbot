@@ -7,3 +7,8 @@ langchain
 langgraph
 openai
 streamlit
+langchain-community
+langchain-core
+langchain-groq
+langchain-openai
+pydantic
